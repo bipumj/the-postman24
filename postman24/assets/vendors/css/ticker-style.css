@@ -20,7 +20,10 @@
     overflow: hidden;
     background-color: #fff;
 
-    @media #{$xs} {
+    /* @media #{$xs} {
+        width: 200px;
+    } */
+    @media {
         width: 200px;
     }
 }
